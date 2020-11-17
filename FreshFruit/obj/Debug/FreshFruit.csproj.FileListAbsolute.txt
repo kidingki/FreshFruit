@@ -1,0 +1,30 @@
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\bin\Debug\FreshFruit.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\november 16 2020\FreshFruit\FreshFruit\obj\Debug\FreshFruit.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\bin\Debug\FreshFruit.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\bin\Debug\FreshFruit.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\FreshFruits\FreshFruit\FreshFruit\obj\Debug\FreshFruit.pdb
