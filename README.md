@@ -93,3 +93,49 @@ Pada class bucket.cs berisi pendeklarasian list findAll() untuk dimunculkan pada
     }
     
 Nah untuk interface dan class dari BucketEventListener sendiri berfungsi menghandle dari proses pada keranjang untuk menentukan berhasil atau tidaknya suatu proses.
+
+class BucketController
+    {
+        private Bucket bucket;
+        private BucketEventListener eventListener;
+
+        public BucketController(Bucket bucket, BucketEventListener eventListener)
+        {
+            this.bucket = bucket;
+            this.eventListener = eventListener;
+        }
+        public void addFruit(Fruit fruit)
+        {
+            if (bucketIsOverload())
+            {
+                eventListener.onFailed("Ops, keranjang penuh");
+            }
+            else
+            {
+                this.bucket.insert(fruit);
+                eventListener.onSucceed("Yey, berhasil ditambahkan");
+            }
+        }
+        public bool bucketIsOverload()
+        {
+            return bucket.countItems() >= bucket.getCapacity();
+        }
+
+        public void removeFruit(Fruit fruit)
+        {
+            for (int itemPosition = 0; itemPosition < bucket.countItems(); itemPosition++)
+            {
+                if (bucket.findAll().ElementAt(itemPosition).getName() == fruit.name)
+                {
+                    bucket.remove(itemPosition);
+                    eventListener.onSucceed("Yey, berhasil dihapus");
+                }
+            }
+        }
+        public List<Fruit> findAll()
+        {
+            return this.bucket.findAll();
+        }
+    }
+    
+untuk BucketController.cs sendiri sebagai pengendali dari keranjang pada jendela. Berfungsi untuk menentukan overloadnya keranjang, penambahan, penghapusan, serta menampikan notifikasi pada layar
